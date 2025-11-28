@@ -45,6 +45,7 @@
     color: #473E43;
     border: none;
     padding: 8px 35px;
+    margin: 25px 890px 21px 63px;
     font-family: 'Montserrat' , sans-serif;
     font-size: 14px;
     font-weight: 700;
@@ -53,7 +54,9 @@
 
 .info__text {
     max-height: 115px;
-    overflow: ;
+    margin-left: 54px;
+    margin-right: 22px;
+    overflow: hidden;
     position: relative;
 }
 
